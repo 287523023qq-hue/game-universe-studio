@@ -7,9 +7,9 @@
 **End-to-End Studio: From Loose Ideas to Playable Web Games, Locked Characters, 3D Cinematics & High-CTR Bento Cards**
 
 [![Live Demo](https://img.shields.io/badge/Live%20Showcase-gaoyaguo.eu.cc-00e5ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gaoyaguo.eu.cc)
-[![Claude Skills](https://img.shields.io/badge/Claude%20Skills-PR%20%231132%20MERGED-7c3aed?style=for-the-badge&logo=anthropic&logoColor=white)](https://github.com/alirezarezvani/claude-skills/pull/1132)
+[![Claude Skills](https://img.shields.io/badge/Claude%20Skills-PR%20%231147%20OPEN-7c3aed?style=for-the-badge&logo=anthropic&logoColor=white)](https://github.com/alirezarezvani/claude-skills/pull/1147)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](./LICENSE)
-[![Agensi Launch Price](https://img.shields.io/badge/Agensi.io-$0.99%20Launch%20Sale-ff007f?style=for-the-badge)](https://www.agensi.io/skills/game-universe-studio)
+[![Agensi Launch Price](https://img.shields.io/badge/Agensi.io-$1.00%20Launch%20Sale-ff007f?style=for-the-badge)](https://www.agensi.io/skills/game-universe-studio)
 
 [English](./README.md) · [简体中文](./README.md#-%E7%AE%80%E4%BB%8B) · [在线体验 (Live Hub)](https://gaoyaguo.eu.cc) · [技能规范 (SKILL.md)](./SKILL.md)
 
