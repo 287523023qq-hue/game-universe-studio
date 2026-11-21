@@ -6,12 +6,12 @@
 ### 全栈网页游戏展厅、电影级运镜与 IP 资产创作管线
 **End-to-End Studio: From Loose Ideas to Playable Web Games, Locked Characters, 3D Cinematics & High-CTR Bento Cards**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Showcase-gaoyaguo.eu.cc-00e5ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gaoyaguo.eu.cc)
-[![Claude Skills](https://img.shields.io/badge/Claude%20Skills-PR%20%231147%20OPEN-7c3aed?style=for-the-badge&logo=anthropic&logoColor=white)](https://github.com/alirezarezvani/claude-skills/pull/1147)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](./LICENSE)
-[![Agensi Launch Price](https://img.shields.io/badge/Agensi.io-$1.00%20Launch%20Sale-ff007f?style=for-the-badge)](https://www.agensi.io/skills/game-universe-studio)
+[![Live Showcase](https://img.shields.io/badge/Live%20Showcase-AI%20Studio%20Suite-00e5ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://287523023qq-hue.github.io/ai-cinematic-skills/)
+[![Claude Skills Merged](https://img.shields.io/badge/Claude%20Skills-v2.14.15%20MERGED-10b981?style=for-the-badge&logo=anthropic&logoColor=white)](https://github.com/alirezarezvani/claude-skills/releases/tag/v2.14.15)
+[![4-in-1 Bundle](https://img.shields.io/badge/4--in--1%20Bundle-$9.99%20(Save%2041%25)-2563eb?style=for-the-badge)](https://www.agensi.io/r/CREATOR980D20B?to=/bundles/ai-game-visual-asset-studio-suite&utm_source=github_game_studio)
+[![Agensi Launch Price](https://img.shields.io/badge/Agensi.io-$1.00%20Starter-ff007f?style=for-the-badge)](https://www.agensi.io/r/CREATOR980D20B?to=/skills/game-universe-studio&utm_source=github_game_studio)
 
-[English](./README.md) · [简体中文](./README.md#-%E7%AE%80%E4%BB%8B) · [在线体验 (Live Hub)](https://gaoyaguo.eu.cc) · [技能规范 (SKILL.md)](./SKILL.md)
+[演示展厅 (Live Showcase)](https://287523023qq-hue.github.io/ai-cinematic-skills/) · [4合1旗舰套餐 ($9.99省41%)](https://www.agensi.io/r/CREATOR980D20B?to=/bundles/ai-game-visual-asset-studio-suite&utm_source=github_game_studio) · [蓝V店铺主页](https://www.agensi.io/r/CREATOR980D20B?to=/creators/creator-980&utm_source=github_game_studio) · [技能规范 (SKILL.md)](./SKILL.md)
 
 </div>
 
